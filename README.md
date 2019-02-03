@@ -1,7 +1,9 @@
 # RoboND-SLAM
 Creating a 2D occupancy grid and 3D octomap for robots
 
+![Mapping process](./misc_images/process_2.png)
 ----
+
 
 ## Writeup
 Writeup is available [here](./SLAM_for_Robots.pdf).
