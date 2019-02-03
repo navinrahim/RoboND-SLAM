@@ -26,14 +26,14 @@ Writeup is available [here](./SLAM_for_Robots.pdf).
 - Launch the robot in the world
   - For Kitchen World,
     ```
-    roslaunch slam_project udacity_world.launch world_file:=/home/workspace/catkin_ws/src/RoboND-SLAM/udacity_bot/
-    worlds/kitchen_dining.world
+    roslaunch slam_project udacity_world.launch world_file:=/home/workspace/catkin_ws/src/
+      RoboND-SLAM/udacity_bot/worlds/kitchen_dining.world
     ```
     
   - For Custom World,
     ```
-    roslaunch slam_project udacity_world.launch world_file:=/home/workspace/catkin_ws/src/RoboND-SLAM/udacity_bot/
-    worlds/custom_map.world.world
+    roslaunch slam_project udacity_world.launch world_file:=/home/workspace/catkin_ws/src/
+      RoboND-SLAM/udacity_bot/worlds/custom_map.world.world
     ```
 - Launch the teleop node to move the robot,
   ```
